@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 class StudentBio extends React.Component {
 
@@ -13,7 +14,7 @@ class StudentBio extends React.Component {
                     {/* Breadcrumb */}
                     <nav aria-label="breadcrumb" className="main-breadcrumb">
                         <ol className="breadcrumb">
-                            <li className="breadcrumb-item"><a href="/">Home</a></li>
+                            <li className="breadcrumb-item"><Link to="/">Home</Link></li>
                             <li className="breadcrumb-item active" aria-current="page">Student Profile</li>
                         </ol>
                     </nav>
