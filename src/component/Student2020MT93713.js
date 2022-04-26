@@ -12,7 +12,7 @@ class Student2020MT93713 extends React.Component {
             github="rohitvarghesebits"
             linkedin="rohitvarghese96"
             email="2020MT93713@wilp.bits-pilani.ac.in"
-            image="Student2020MT93713.jpg"
+            image="2020MT93713.jpg"
 
         />)
     }
