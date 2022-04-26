@@ -3,7 +3,8 @@ import StudentBio from "./StudentBio";
 class Student2020MT93501 extends React.Component {
 
     render() {
-        return (<StudentBio
+        return (
+        <StudentBio
             name="Kaustabh Lahiri"
             location="Mohali, Punjab"
             githuburl="https://github.com/Kaustabh-2020mt93501/osse-assignment4"
