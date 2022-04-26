@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/osse-assignment4/static/css/main.073c9b0a.css",
-    "main.js": "/osse-assignment4/static/js/main.0f671e2e.js",
+    "main.js": "/osse-assignment4/static/js/main.668feb01.js",
     "static/js/787.412d5909.chunk.js": "/osse-assignment4/static/js/787.412d5909.chunk.js",
     "static/media/2020MT93501.png": "/osse-assignment4/static/media/2020MT93501.5d6ffeff417173fa7410.png",
+    "static/media/2020MT93713.jpg": "/osse-assignment4/static/media/2020MT93713.a72794731721c2ded5d3.jpg",
     "static/media/2020MT93502.jpg": "/osse-assignment4/static/media/2020MT93502.965fb1faaf79b8205c88.jpg",
     "index.html": "/osse-assignment4/index.html",
     "main.073c9b0a.css.map": "/osse-assignment4/static/css/main.073c9b0a.css.map",
-    "main.0f671e2e.js.map": "/osse-assignment4/static/js/main.0f671e2e.js.map",
+    "main.668feb01.js.map": "/osse-assignment4/static/js/main.668feb01.js.map",
     "787.412d5909.chunk.js.map": "/osse-assignment4/static/js/787.412d5909.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0f671e2e.js"
+    "static/js/main.668feb01.js"
   ]
 }
