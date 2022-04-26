@@ -32,6 +32,28 @@ class Homepage extends React.Component {
                             </div>
                         </div>
                     </div>
+                    <div className="row">
+                        <div className="col-md-4">
+                            <div className="well well-light-green mini-profile-widget p-3">
+                                <div className="image-container">
+                                    <img src={require('../studentImage/2020MT93585.jpg')} className="avatar img-responsive" alt="avatar" />
+                                </div>
+                                <div className="details">
+                                    <h4>Rajasekhar Kandalam</h4>
+                                    <hr />
+                                    <div>Works at Microsoft </div>
+                                    <div>Attending M.Tech, BITS Pilani</div>
+                                    <div>Lives in Hyderabad, Telangana</div>
+                                    <Link to="/profile/2020MT93585"><p className="mt-3">
+                                        <a className="btn btn-danger mr-2">
+                                            View Profile
+                                        </a>
+                                    </p>
+                                    </Link>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         );
