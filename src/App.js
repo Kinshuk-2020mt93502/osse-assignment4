@@ -8,6 +8,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Homepage />} />
       <Route path="/profile/2020MT93502" element={<Student2020MT93502 />} />
+      <Route path="/profile/2020MT93501" element={<Student2020MT93501 />} />
     </Routes>
   );
 }
