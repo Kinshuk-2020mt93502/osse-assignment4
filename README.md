@@ -15,6 +15,7 @@ List of all the participants from G-16
 - **[Kinshuk Lahiri](https://github.com/Kinshuk-2020mt93502/osse-assignment4)** (Student ID - 2020MT93502)
 - **[Kaustabh Lahiri](https://github.com/Kaustabh-2020mt93501/osse-assignment4)** (Student ID - 2020MT93501)
 - **[Rohit Varghese](https://github.com/rohitvarghesebits/osse-assignment4)** (Student ID - 2020MT93713)
+- **[Rajasekhar Kandalam](https://github.com/rkandalam/osse-assignment4)** (Student ID - 2020MT93585)
 
 ## Resources
 
