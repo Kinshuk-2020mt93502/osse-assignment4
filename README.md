@@ -13,6 +13,7 @@ List of all the participants from G-16
 ### Premium Partners
 
 - **[Kinshuk Lahiri](https://github.com/Kinshuk-2020mt93502/osse-assignment4)** (Student ID - 2020MT93502)
+- **[Rajasekhar Kandalam](https://github.com/rkandalam/osse-assignment4)** (Student ID - 2020MT93585)
 
 ## Resources
 
